@@ -1,0 +1,44 @@
+.workProjects {
+  padding: 100px 180px 0 180px;
+}
+.workParagraph {
+  margin-top: 91px;
+  color: #1b1b1b;
+  font-family: DM Sans;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 129.2%;
+}
+.span1 {
+  color: #0b5184;
+}
+.span2 {
+  color: #ab35a7;
+}
+.down {
+  margin: 80px 0 67px 0;
+}
+
+.wirkDiv {
+  display: flex;
+}
+.workDiv * {
+  color: #1b1b1b;
+  font-family: DM Sans;
+  font-size: 49px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 129.2%;
+}
+.workDiv h6 {
+  margin-bottom: 40px;
+}
+.workDiv a {
+  color: #ab35a7;
+  cursor: pointer;
+  text-decoration-line: underline;
+}
+.workDiv span {
+  color: #0b5184;
+}
