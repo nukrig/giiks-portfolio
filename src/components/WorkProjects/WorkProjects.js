@@ -34,6 +34,7 @@ function WorkProjects(){
                     num='05 / '
                     heading = 'Investment portal for the administration of the State Trustee of Samegrelo-Zemo Svaneti.'
                     paragraph='The web page was developed within the Fostering Regional and Local Development in Georgia'
+                    more = 'http://www.investinsamegrelo.ge'
                     img = {project5}
                     link = 'http://www.investinsamegrelo.ge'
                 />

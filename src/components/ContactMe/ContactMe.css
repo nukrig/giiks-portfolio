@@ -1,0 +1,95 @@
+.contact {
+  margin-top: 219px;
+  padding: 0 180px;
+}
+.socialDiv {
+  width: 100%;
+  margin-top: 100px;
+  margin-bottom: 250px;
+  display: flex;
+  justify-content: space-between;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+.box {
+  width: 367px;
+  height: 180px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: DM Sans;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  position: relative;
+  margin-bottom: 20px;
+}
+.socialLogo {
+  position: absolute;
+  top: -40px;
+}
+.dribbble {
+  background-color: #ea4c891a;
+  color: #ea4c89;
+}
+.behance {
+  background-color: #1769ff1a;
+  color: #1769ff;
+}
+.linkedin {
+  background-color: #1769ff1a;
+  color: #0f7cb7;
+}
+.instagram {
+  background-color: #ab35a71a;
+  color: #ab35a7;
+}
+.contact h1 {
+  color: #1b1b1b;
+  font-family: DM Sans;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 129.2%;
+}
+.contactFinish * {
+  color: #1b1b1b;
+  font-family: DM Sans;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 129.2%;
+}
+.contactFinish {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 180px;
+  margin-top: 56px;
+}
+.contactFinish h1 {
+  color: #1b1b1b;
+  font-family: DM Sans;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 129.2%;
+}
+.contactFinish div {
+  margin-right: 50px;
+}
+.contactFinish h6 {
+  font-size: 32px;
+  margin-bottom: 26px;
+}
+.contactFinish a {
+  font-size: 20px;
+  cursor: pointer;
+}
+.contactFinish a img {
+  width: 15px;
+  height: 18px;
+  transform: rotate(-90deg);
+  margin-left: 13px;
+}

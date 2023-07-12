@@ -1,14 +1,14 @@
 import React from "react"
 import Navbar from "../components/Navbar/Navbar"
 import logo from '../assets/Frame 15.svg'
-import Footer from "../components/Footer/Footer"
+import ContactMe from "../components/ContactMe/ContactMe"
 
 
 function ContactPage(){
     return (
         <>
             < Navbar logo={logo} colorBg='white'  fontColor='black'  />
-            <Footer/>
+            <ContactMe/>
         </>
     )
 }
