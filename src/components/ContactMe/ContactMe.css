@@ -5,7 +5,7 @@
 .socialDiv {
   width: 100%;
   margin-top: 100px;
-  margin-bottom: 250px;
+  margin-bottom: 150px;
   display: flex;
   justify-content: space-between;
   justify-content: center;
@@ -54,6 +54,9 @@
   font-weight: 500;
   line-height: 129.2%;
 }
+.contactHr {
+  padding: 0 180px;
+}
 .contactFinish * {
   color: #1b1b1b;
   font-family: DM Sans;
@@ -82,6 +85,7 @@
 .contactFinish h6 {
   font-size: 32px;
   margin-bottom: 26px;
+  margin-right: 30px;
 }
 .contactFinish a {
   font-size: 20px;
@@ -93,65 +97,105 @@
   transform: rotate(-90deg);
   margin-left: 13px;
 }
-
 @media (max-width: 1440px) {
-  .contact {
-    padding: 0 180px;
+  .contact,
+  .contactFinish,
+  .contactHr {
+    padding: 0 160px;
   }
   .contact h1,
   .contactFinish h1 {
     font-size: 40px;
   }
+  .contactFinish *,
+  .contactFinish h6 {
+    font-size: 30px;
+  }
+  .socialDiv {
+    margin-bottom: 100px;
+  }
 }
 @media (max-width: 1150px) {
-  .contact {
-    padding: 0 160px;
+  .contact,
+  .contactFinish,
+  .contactHr {
+    padding: 0 100px;
   }
   .contact h1,
   .contactFinish h1 {
     font-size: 35px;
   }
+  .contactFinish *,
+  .contactFinish h6 {
+    font-size: 28px;
+  }
+  .socialDiv {
+    margin-bottom: 90px;
+  }
 }
 @media (max-width: 1100px) {
-  .contact {
-    padding: 0 100px;
+  .contact,
+  .contactFinish,
+  .contactHr {
+    padding: 0 90px;
   }
   .contact h1,
   .contactFinish h1 {
     font-size: 30px;
   }
+  .contactFinish *,
+  .contactFinish h6 {
+    font-size: 27px;
+  }
+  .socialDiv {
+    margin-bottom: 80px;
+  }
 }
 @media (max-width: 1050px) {
-  .contact {
-    padding: 0 90px;
+  .contact,
+  .contactFinish,
+  .contactHr {
+    padding: 0 80px;
   }
   .contact h1,
   .contactFinish h1 {
     font-size: 25px;
   }
+  .contactFinish *,
+  .contactFinish h6 {
+    font-size: 26px;
+  }
+  .socialDiv {
+    margin-bottom: 60px;
+  }
 }
 @media (max-width: 1000px) {
-  .contact {
-    padding: 0 80px;
+  .contact,
+  .contactFinish,
+  .contactHr {
+    padding: 0 20px 0 40px;
   }
-  .contact h1,
-  .contactFinish h1 {
-    font-size: 24px;
+  .profile {
+    box-shadow: 20px 20px #042339;
+  }
+  .contactFinish *,
+  .contactFinish h6 {
+    font-size: 25px;
   }
 }
 @media (max-width: 900px) {
   .contact {
-    padding: 0 20px;
+    flex-direction: column-reverse;
   }
-  .contact h1 {
-    font-size: 23px;
-  }
-  .contactFinish * {
-    font-size: 24px;
+  .socialDiv {
+    margin-bottom: 40px;
   }
 }
 @media (max-width: 750px) {
-  .aboutFinish h1 {
+  .contactFinish {
+    flex-direction: column;
+  }
+  .contactFinish h1 {
     margin-bottom: 20px;
   }
 }

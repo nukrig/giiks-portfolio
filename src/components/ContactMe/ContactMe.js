@@ -42,7 +42,7 @@ function ContactMe(){
                     </a>
                 </div>
             </div>
-                <div style={{padding:'0 180px'}}>
+                <div className="contactHr">
                     <div style={{height:'2px',width:'100%',backgroundColor:'#000'}}></div>
                 </div>
                 <div className="contactFinish">
