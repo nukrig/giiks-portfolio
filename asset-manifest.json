@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/giiks-portfolio/static/css/main.a880519a.css",
+    "main.js": "/giiks-portfolio/static/js/main.7dfd6de8.js",
+    "static/js/787.1ed0c42c.chunk.js": "/giiks-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/project7.svg": "/giiks-portfolio/static/media/project7.79f44cc05d4a214406ff05df4ef32e04.svg",
+    "static/media/project3.svg": "/giiks-portfolio/static/media/project3.e32fc8673d373dee718b6f89198522b2.svg",
+    "static/media/project2.svg": "/giiks-portfolio/static/media/project2.43e85d1f8f8c2c7527e4bcbd5d20c0e9.svg",
+    "static/media/project6.svg": "/giiks-portfolio/static/media/project6.488fa4a1346ed968874e13262c22679e.svg",
+    "static/media/profile.jpg": "/giiks-portfolio/static/media/profile.675361e49404f4914827.jpg",
+    "static/media/project5.svg": "/giiks-portfolio/static/media/project5.ddd5836c91df5d4ef96eef7f4cfad06c.svg",
+    "static/media/project4.svg": "/giiks-portfolio/static/media/project4.cc6f70642da2dd87f5b4d2b49851e0d1.svg",
+    "static/media/project1.svg": "/giiks-portfolio/static/media/project1.08b251ff689b0f1892408346647d39a3.svg",
+    "static/media/instagram.svg": "/giiks-portfolio/static/media/instagram.92ad81c1f4a5db9b130d338b75138c5d.svg",
+    "static/media/behance.svg": "/giiks-portfolio/static/media/behance.941b4bd821e303136092d1f4780a541c.svg",
+    "static/media/dribble.svg": "/giiks-portfolio/static/media/dribble.ef30f623513ebda66a3e6572b9cc1b61.svg",
+    "static/media/Group 1.svg": "/giiks-portfolio/static/media/Group 1.d33f1e72cf90a635a0d427cd89df3777.svg",
+    "static/media/Frame 15.svg": "/giiks-portfolio/static/media/Frame 15.422e40953ae4a1dbe0c35c2f63cc4149.svg",
+    "static/media/linkedin.svg": "/giiks-portfolio/static/media/linkedin.8d8d38b2d61917729a4f53519440ef1d.svg",
+    "index.html": "/giiks-portfolio/index.html",
+    "static/media/upArrow.svg": "/giiks-portfolio/static/media/upArrow.15782262e78e9791493add5d82f35643.svg",
+    "static/media/↓.svg": "/giiks-portfolio/static/media/↓.1c5e8597f161026ff6eee073a3d79a8b.svg",
+    "main.a880519a.css.map": "/giiks-portfolio/static/css/main.a880519a.css.map",
+    "main.7dfd6de8.js.map": "/giiks-portfolio/static/js/main.7dfd6de8.js.map",
+    "787.1ed0c42c.chunk.js.map": "/giiks-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a880519a.css",
+    "static/js/main.7dfd6de8.js"
+  ]
+}
