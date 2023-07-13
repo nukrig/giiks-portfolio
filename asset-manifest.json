@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/giiks-portfolio/static/css/main.a880519a.css",
-    "main.js": "/giiks-portfolio/static/js/main.7dfd6de8.js",
+    "main.js": "/giiks-portfolio/static/js/main.3efd46d3.js",
     "static/js/787.1ed0c42c.chunk.js": "/giiks-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/project7.svg": "/giiks-portfolio/static/media/project7.79f44cc05d4a214406ff05df4ef32e04.svg",
     "static/media/project3.svg": "/giiks-portfolio/static/media/project3.e32fc8673d373dee718b6f89198522b2.svg",
@@ -21,11 +21,11 @@
     "static/media/upArrow.svg": "/giiks-portfolio/static/media/upArrow.15782262e78e9791493add5d82f35643.svg",
     "static/media/↓.svg": "/giiks-portfolio/static/media/↓.1c5e8597f161026ff6eee073a3d79a8b.svg",
     "main.a880519a.css.map": "/giiks-portfolio/static/css/main.a880519a.css.map",
-    "main.7dfd6de8.js.map": "/giiks-portfolio/static/js/main.7dfd6de8.js.map",
+    "main.3efd46d3.js.map": "/giiks-portfolio/static/js/main.3efd46d3.js.map",
     "787.1ed0c42c.chunk.js.map": "/giiks-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a880519a.css",
-    "static/js/main.7dfd6de8.js"
+    "static/js/main.3efd46d3.js"
   ]
 }
