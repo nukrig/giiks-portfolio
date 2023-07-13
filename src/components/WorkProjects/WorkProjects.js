@@ -11,7 +11,6 @@ function WorkProjects(){
     return (
         <>
             <div className="workProjects">
-                
                     <p className="workParagraph">Don’t hesitate to scroll down and browse my 
                         <span className="span1"> featured projects. </span>  
                         By clicking the button you can go to the website link and browse the already launched websites 

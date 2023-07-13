@@ -24,3 +24,40 @@
   font-weight: 400;
   margin-top: 61px;
 }
+
+@media (max-width: 1440px) {
+  .homeHeading h1,
+  .homeHeading h3 {
+    font-size: 50px;
+  }
+  .homeHeading p {
+    font-size: 26px;
+  }
+  .homeHeading {
+    padding: 0 160px 100px 160px;
+  }
+}
+@media (max-width: 1150px) {
+  .homeHeading h1,
+  .homeHeading h3 {
+    font-size: 40px;
+  }
+  .homeHeading p {
+    font-size: 24px;
+  }
+  .homeHeading {
+    padding: 0 100px 100px 100px;
+  }
+}
+@media (max-width: 900px) {
+  .homeHeading h1,
+  .homeHeading h3 {
+    font-size: 34px;
+  }
+  .homeHeading p {
+    font-size: 22px;
+  }
+  .homeHeading {
+    padding: 0 20px 50px 20px;
+  }
+}

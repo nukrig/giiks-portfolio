@@ -42,3 +42,63 @@
 .workDiv span {
   color: #0b5184;
 }
+
+@media (max-width: 1440px) {
+  .workProjects {
+    padding: 100px 160px 0 160px;
+  }
+  .workParagraph,
+  .workDiv * {
+    font-size: 35px;
+  }
+  .down {
+    margin: 60px 0 50px 0;
+  }
+  .workDiv h6 {
+    margin-bottom: 30px;
+  }
+}
+@media (max-width: 1150px) {
+  .workProjects {
+    padding: 100px 100px 0 100px;
+  }
+  .workParagraph,
+  .workDiv * {
+    font-size: 30px;
+  }
+  .down {
+    margin: 50px 0 40px 0;
+  }
+}
+@media (max-width: 1100px) {
+  .workProjects {
+    padding: 100px 90px 0 90px;
+  }
+  .workParagraph,
+  .workDiv * {
+    font-size: 25px;
+  }
+}
+@media (max-width: 1050px) {
+  .workProjects {
+    padding: 100px 80px 0 80px;
+  }
+  .down {
+    margin: 50px 0 40px 0;
+  }
+}
+@media (max-width: 1000px) {
+  .workProjects {
+    padding: 100px 20px 0 20px;
+  }
+  .workParagraph,
+  .workDiv * {
+    font-size: 22px;
+  }
+  .down {
+    margin: 40px 0 30px 0;
+  }
+  .workDiv h6 {
+    margin-bottom: 20px;
+  }
+}

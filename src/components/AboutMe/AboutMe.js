@@ -30,7 +30,7 @@ function AboutMe(){
                     <img className="profile" src={profile} alt="ProfilePicture"/>
                 </div>
             </div>
-                <div style={{padding:'0 180px'}}>
+                <div className="aboutHr">
                     <div style={{height:'2px',width:'100%',backgroundColor:'#000'}}></div>
                 </div>
                 <div className="aboutFinish">

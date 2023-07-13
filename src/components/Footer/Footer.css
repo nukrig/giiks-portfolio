@@ -1,5 +1,5 @@
 .footerDiv {
-  padding-bottom: 40px;
+  padding-bottom: 25px;
   margin: 130px 180px 0px 180px;
   display: flex;
   justify-content: space-between;
@@ -22,4 +22,39 @@
   font-style: normal;
   font-weight: 700;
   line-height: 40px;
+}
+@media (max-width: 1100px) {
+  .footerDiv {
+    margin: 80px 100px 0px 100px;
+  }
+}
+@media (max-width: 950px) {
+  .footerDiv ul {
+    gap: 20px;
+  }
+  .footerDiv {
+    margin: 80px 60px 0px 60px;
+  }
+}
+@media (max-width: 800px) {
+  .footerDiv li {
+    font-size: 18px;
+  }
+  .footerDiv h5 {
+    font-size: 18px;
+  }
+  .footerDiv {
+    margin: 80px 20px 0px 20px;
+  }
+}
+@media (max-width: 750px) {
+  .footerDiv {
+    flex-direction: column;
+    justify-content: flex-start;
+    text-align: left;
+  }
+  .footerDiv ul {
+    flex-direction: column;
+    gap: 5px;
+  }
 }

@@ -13,7 +13,7 @@
   gap: 30px;
 }
 .box {
-  width: 367px;
+  width: 300px;
   height: 180px;
   display: flex;
   justify-content: center;
@@ -92,4 +92,66 @@
   height: 18px;
   transform: rotate(-90deg);
   margin-left: 13px;
+}
+
+@media (max-width: 1440px) {
+  .contact {
+    padding: 0 180px;
+  }
+  .contact h1,
+  .contactFinish h1 {
+    font-size: 40px;
+  }
+}
+@media (max-width: 1150px) {
+  .contact {
+    padding: 0 160px;
+  }
+  .contact h1,
+  .contactFinish h1 {
+    font-size: 35px;
+  }
+}
+@media (max-width: 1100px) {
+  .contact {
+    padding: 0 100px;
+  }
+  .contact h1,
+  .contactFinish h1 {
+    font-size: 30px;
+  }
+}
+@media (max-width: 1050px) {
+  .contact {
+    padding: 0 90px;
+  }
+  .contact h1,
+  .contactFinish h1 {
+    font-size: 25px;
+  }
+}
+@media (max-width: 1000px) {
+  .contact {
+    padding: 0 80px;
+  }
+  .contact h1,
+  .contactFinish h1 {
+    font-size: 24px;
+  }
+}
+@media (max-width: 900px) {
+  .contact {
+    padding: 0 20px;
+  }
+  .contact h1 {
+    font-size: 23px;
+  }
+  .contactFinish * {
+    font-size: 24px;
+  }
+}
+@media (max-width: 750px) {
+  .aboutFinish h1 {
+    margin-bottom: 20px;
+  }
 }

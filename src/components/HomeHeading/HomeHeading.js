@@ -9,7 +9,7 @@ function HomeHeading(){
     return (
         <>
             <div className="homeHeading">
-            <   h1>Hi ✌🏻</h1>
+                <h1>Hi ✌🏻</h1>
                 <h3>I am a product focused designer who makes complex tasks <span>simple & obvious</span> </h3>
                 <img src={arrowIcon} alt="arrow"/>
                 <p>23 Years old experienced UI/UX Designer based in Tbilisi,Georgia. 2.5 Year working experience 
