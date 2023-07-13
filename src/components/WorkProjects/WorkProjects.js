@@ -24,9 +24,9 @@ function WorkProjects(){
                     heading = 'Stateless information portal'
                     paragraph='The portal about statelessness is a unique platform that combines all the 
                     necessary information about statelessness in one space.'
-                    more = 'www.stateless.ge'
+                    more = 'http://www.stateless.ge'
                     img = {project4}
-                    link = 'www.stateless.ge'
+                    link = 'http://www.stateless.ge'
                 />
                 {/* PROOJECT 5 */}
                 <MyProject

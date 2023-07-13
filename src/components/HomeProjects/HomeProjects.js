@@ -19,7 +19,7 @@ function HomeProjects(){
                     the marine fishing sector of Georgia.'
                     more = 'More shots for this project'
                     img = {project1}
-                    link = 'https://grateful-guardrails-225933.framer.app/Contact-Me'
+                    link = 'https://marinefishcluster.ge/en'
                 />
                 {/* PROOJECT 2 */}
                 <MyProject
@@ -28,7 +28,7 @@ function HomeProjects(){
                     paragraph='HMG (Horeca Management Group) HMG is a leading company in the field of hospitality since 2014.'
                     more = 'More shots for this project'
                     img = {project2}
-                    link = 'https://grateful-guardrails-225933.framer.app/Contact-Me'
+                    link = 'https://hmg.ge/en'
                 />
                 {/* PROOJECT 3 */}
                 <MyProject
@@ -37,7 +37,7 @@ function HomeProjects(){
                     paragraph='HMG (Horeca Management Group) HMG is a leading company in the field of hospitality since 2014.'
                     more = 'More shots for this project'
                     img = {project3}
-                    link = 'https://grateful-guardrails-225933.framer.app/Contact-Me'
+                    link = 'https://apps.apple.com/ge/app/earnote/id6450044781'
                     />
                     {/* <Footer/> */}
             </div>
