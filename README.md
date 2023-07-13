@@ -1,3 +1,7 @@
+# the design from ui/ux designer giorgi karichashvili.
+
+(https://www.figma.com/file/yRnu977R9xOKABVtAE9chk/Personal-portfolio?node-id=58%3A55&mode=dev)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
